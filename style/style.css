@@ -80,10 +80,13 @@ h3 {
     padding-left: 1.5rem;
 }
 
+/* ----------- footer ----------------------- */
+
 footer .container {
     border-top: 2px solid rgba(144, 130, 109, 0.2);
     color: #999;
     padding: 20px 0px;
     font-size: 10px;
     margin-top: 50px;
+    text-align: center;
 }
